@@ -4,7 +4,7 @@ I'm a passionate software developer from Sri Lanka 🇱🇰
 🔭 I’m currently working on: `Flood Prediction System`, `MISP E+`, and more  
 🌱 I’m currently learning: React Native, Flask, and Machine Learning   
 💬 Ask me about: AWS Amplify, React, Python, GitHub  
-📫 How to reach me: chamishkadkulasinghe@gmail.com | www.linkedin.com/in/chamishka-dinuwan
+📫 How to reach me: [Gmail](chamishkadkulasinghe@gmail.com) | [Linkedin](www.linkedin.com/in/chamishka-dinuwan)
 
 ---
 
