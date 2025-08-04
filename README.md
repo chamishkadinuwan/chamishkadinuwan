@@ -39,4 +39,4 @@ I'm a passionate software developer from Sri Lanka 🇱🇰
 ## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/chamishka-dinuwan/)
-- [Email] chamishkadkulasinghe@gmail.com
+- [Email](chamishkadkulasinghe@gmail.com)
