@@ -20,8 +20,9 @@ I'm a passionate software developer from Sri Lanka 🇱🇰
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?chamishkadinuwan=your-github-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?chamishkadinuwan=your-github-username&layout=compact&theme=tokyonight)
+![Chamishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamishkadinuwan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chamishkadinuwan&layout=compact&theme=tokyonight)
+
 
 ---
 
